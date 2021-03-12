@@ -28,6 +28,8 @@
               "src/assets"
             ],
             "styles": [
+              "node_modules/@fortawesome/fontawesome-free/css/all.min.css",
+              "node_modules/bootstrap/dist/css/bootstrap.min.css",
               "src/styles.css"
             ],
             "scripts": []
@@ -124,5 +126,8 @@
       }
     }
   },
-  "defaultProject": "MyApp"
+  "defaultProject": "MyApp",
+  "cli": {
+    "analytics": "caf61ae6-1038-4c71-b6b3-2f093fc0bc72"
+  }
 }
